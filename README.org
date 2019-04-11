@@ -1,0 +1,25 @@
+#+TITLE: My HackerRank submissions
+
+* What is it?
+
+In this repo, you will find some of my solutions for the [[https://hackerrank.com][hackerrank]]
+challenges. I don't have much time for doing thos so the repo will
+slowly grow. I don't plan on putting up explanation for every
+submissions I do (especially because, at the time of creating the
+repo, I'm still doing easy challenges) but some files may have useful
+commentaries so don't hesitate to take a peek.
+
+* Languages
+
+I use this platform to train on my problem solving skills as well as
+train, learn or relearn my programming languages. Expect that the
+challenges be solved in any language. The ones I intend to use the
+most are python, perl, common lisp (if available...). But you may find
+any other language in there depending on my motivation or mood.
+
+* Using these files
+
+The files in this repo are under the WTFPL version 2.0 license so
+please use them however you want. However I highly recommand trying to
+solve the challenges before using these files as those will not teach
+you either algorithms or good coding practices.
