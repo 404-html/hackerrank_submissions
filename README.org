@@ -2,12 +2,15 @@
 
 * What is it?
 
-In this repo, you will find some of my solutions for the [[https://hackerrank.com][hackerrank]]
-challenges. I don't have much time for doing thos so the repo will
-slowly grow. I don't plan on putting up explanation for every
-submissions I do (especially because, at the time of creating the
-repo, I'm still doing easy challenges) but some files may have useful
+In this repo, you will find some of my submissions for the [[https://hackerrank.com][hackerrank]]
+challenges. I don't have much time for doing those so the repo will
+grow slowly. I don't plan on putting up explanation for every
+submissions (especially because, at the time of creating the repo, I'm
+still doing easy challenges) but some files may have useful
 commentaries so don't hesitate to take a peek.
+
+I try to follow pep8 (more or less) for python and the gnu standards
+for C but I cannot guarantee that all files will be standardized.
 
 * Languages
 
